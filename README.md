@@ -12,6 +12,8 @@ Type `/fishy @username` to send a fishy stick to a username.
 
 Type `/fishy player character name` to send a fishy stick to a player by their character name (spaces are allowed).
 
+**Remember** to have at least one fishy stick in your backpack!
+
 ## Configuration
 
 The addon does not have any in-game settings (yet) so they need to be modified at the beginning section of the `have_a_fishy_stick.lua` file.
