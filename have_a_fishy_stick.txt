@@ -1,0 +1,6 @@
+## Title: Have a Fishy Stick
+## Author: Chunky Pud
+## Version: 69420
+## APIVersion: 100033
+
+have_a_fishy_stick.lua
